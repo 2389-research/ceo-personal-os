@@ -5,6 +5,7 @@ Reflection frameworks, goal systems, and coaching-style reviews for executives. 
 ## Installation
 
 ```bash
+/plugin marketplace add 2389-research/claude-plugins
 /plugin install ceo-personal-os@2389-research
 ```
 
