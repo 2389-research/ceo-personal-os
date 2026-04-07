@@ -79,3 +79,9 @@ Clarity over productivity theater. No hustle culture. No corporate jargon. The o
 ## Links
 
 - [Plugin CLAUDE.md](./CLAUDE.md) -- development instructions
+
+---
+
+If this helped you build a better operating system for your work, a ⭐ helps us know it's landing.
+
+Built by [2389](https://2389.ai) · Part of the [Claude Code plugin marketplace](https://github.com/2389-research/claude-plugins)
