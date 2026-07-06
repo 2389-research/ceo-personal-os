@@ -1,6 +1,6 @@
 ---
 name: ceo-personal-os
-description: This skill should be used when building a personal productivity or operating system for a CEO, founder, or executive. Triggers on "personal OS", "annual review", "life planning", "goal setting system", "Bill Campbell", "Trillion Dollar Coach", "startup failure patterns", "Good to Great", "Level 5 Leadership", "Buy Back Your Time", "E-Myth", "Customer Development", "Steve Blank", "Small Is Beautiful", "Schumacher", "human-scale", "subsidiarity", "Buddhist economics", "permanence".
+description: Executive reflection system for CEOs, founders, and executives — annual reviews, life planning, and leadership frameworks from 11 thinkers (Campbell, Collins, Blank, Martell, Gerber, Eisenmann, Schumacher, Gustin, Ferriss, Robbins, Lieberman). Use when building a personal OS or reflection practice; triggers: personal OS, annual review, life planning, goal setting, Bill Campbell, Trillion Dollar Coach, Good to Great, Level 5 Leadership, Buy Back Your Time, E-Myth, Customer Development, Steve Blank, Schumacher, human-scale, Buddhist economics, permanence.
 ---
 
 # CEO Personal Operating System
@@ -53,8 +53,8 @@ ceo-personal-os/
 ├── README.md                    # How to use (personalize in 15 min)
 ├── principles.md                # User's core operating principles
 ├── memory.md                    # Extracted patterns & insights
-├── frameworks/                  # 10 framework files
-├── interviews/                  # 10 interview script files
+├── frameworks/                  # 11 framework files
+├── interviews/                  # 11 interview script files
 ├── reviews/
 │   ├── daily/template.md
 │   ├── weekly/template.md
@@ -148,5 +148,5 @@ If you catch yourself:
 ## Framework References
 
 All detailed framework content is in:
-- `references/frameworks/` - 10 framework files with full content
+- `references/frameworks/` - 11 framework files with full content
 - `references/interviews/interview-scripts.md` - All interview questions
